@@ -242,3 +242,14 @@
         background-color: #2C3E50;
         color: floralwhite;
     }
+
+.social-icons{
+        margin-top: 8rem;
+}
+.link-font{
+        font-size: 3rem;
+        margin-left: 2rem;
+}
+.color-icon{
+    color:#2C3E50;
+}
